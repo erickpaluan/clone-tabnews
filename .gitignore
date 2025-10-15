@@ -31,7 +31,5 @@ Thumbs.db
 .vscode/
 
 # Outros
-.env
-.env.*
 .next
 next
